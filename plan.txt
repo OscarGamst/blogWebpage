@@ -1,0 +1,104 @@
+
+Step 1: Defining the project
+
+  1. What is the project?
+    The project is a blog-webpage, it will be solved using HTML, CSS and JS. It will at first be to post about
+    travelling, so our families can keep up with what we are doing. Our end goal however will be expending to a fully functional blog
+    where anyone can see and engage in what we are doing, like reading, commenting, donating etc.
+
+
+  2. What is the MVP (Minimal Viable Product)?
+    The MVP would be a webpage where you can see what we're doing on our travelling, like reading our posts and seeing pictures.
+    It will consist of:
+      -Navigator (Home, About Us, Blog, Photos, Contact, donation?)
+      -Pages for all the ones included in the Navigator
+      -Input where users can sign up to follow (email)
+      -Links to all social media
+      -Latest blog posts
+      -Archive (all posts)
+      -Responsive for all devices
+
+
+
+  3. What are the nice to haves?
+    The nice to haves would be to have different tags on posts/pictures so you can search for specific things. Also having a log-in system
+    so we can regulate who has access to what.
+    -Login
+    -search bar
+    -animations
+    -rotating pictures
+
+  4. When will the project be complete?
+    The project will  be complete when we've reached our goal of having a fully functional blog-webpage.
+
+
+Side notes:
+
+  Names:
+    Maps vs millennials
+    Travel Junkies
+    Gamers go outside?
+    Map Hackers
+    Global Quest
+    Help Us
+    Is This Map Upside Down
+    Where are we
+    Twenty and lost
+    Suitcase strugglers
+    It’s Not Easy
+    GPS Reliant
+    Lost with intention
+    Stolen Title
+    From living rust to living rough
+    Is There An Undo Button
+    Nap time and map time
+    We’ve Gone The Wrong Way
+    Are We Nearly There Yet
+    Passing-Ports
+    Nobodies Nowhere
+    Teletubby travels
+    Going In Circles
+    Chasing Our Tails
+    Bankrupt And Bored
+    Bankrupt And Boarding
+    Bankrupt And Bossing It
+    Travelling From Debt
+    Hitchhiking Chickens
+    Why did the chicken cross the road
+    Why did the chicken cross the ocean
+    Nightmare navigators
+    Dream directions
+    Desperate For Directions
+    Direction Deserters
+    Direction Undecided
+    Caffeinated Cruising
+    Direction infection
+    Direction rejection
+    Direction perfection
+    Direction defection
+    Suitcase Stragglers
+    Suitcase To Space
+    Suitcase Mutation
+    TwoCase vacation
+    TwoCase True tales
+    Permanent emigrants
+    Lost transport
+    Lost Abroad
+    Froud Abroad
+    Explored Abroad
+    Hitchhiking With Writing
+    Hitchhiking And Writing
+    Hitchhiking Start Writing
+    Translate Awaits
+    Froud Abroad
+    Moving Improving
+    Mobile Global
+    Roaming Rookies
+    Rogue on the road
+    Doing laps around the map
+
+
+
+  Roadtrip:
+    asscar and a road
+    Right Side Wrong Side
